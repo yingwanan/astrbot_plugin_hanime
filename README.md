@@ -1,9 +1,12 @@
-# helloworld
+# astrbot_plugin_hanime
 
-AstrBot 插件模板
+使你的AstrBot可以在hanime1查询里番并发送视频直链
 
-A template plugin for AstrBot plugin feature
 
-# 支持
 
-[帮助文档](https://astrbot.app)
+# 教程
+使用/lf <关键词>搜索里番
+使用/lfxz <搜索编号>获取里番直链
+国内服务器需要在插件配置中添加代理服务器，否则无法正常访问hanime
+插件配置中可以修改搜索结果数量
+如果有关于插件的使用问题或者bug，请向wanan71104@163.com发送邮件
