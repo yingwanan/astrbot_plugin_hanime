@@ -1,6 +1,6 @@
 name: astrbot_plugin_hanime
 display_name: Hanime Search
-desc: 搜索 Hanime1 并获取视频直链
+desc: 使astrbot可以在hanime查询里番并获取视频直链
 version: v1.0.0
-author: YourName
-repo: https://github.com/YourName/hanime_plugin
+author: 晚安
+repo: https://github.com/yingwanan/astrbot_plugin_hanime
